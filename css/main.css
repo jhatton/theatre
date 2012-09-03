@@ -1,7 +1,9 @@
 body{
-	color: #fff;
-	width: 80%;
-	margin: 0 auto;
+	color: #324323;
+	font: 100%/1.5 Helvetica, Arial, sans-serif;
+	width: 65%; /*850px*/
+	margin: 0 auto; 
+	background-color: #7D4B4B;
 	background-image: url(../images/wood2.jpg);
 
 }
