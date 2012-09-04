@@ -57,11 +57,11 @@ aside {
 	clear: both;
 	border: 2px solid #000;
 	background-image: url(../images/wood6.jpg);	
-	opacity: 80%;
+	opacity: .80;
 	
 }
 	
 blockquote {
-	color: #000;
+	color: #fff;
 }	
  
