@@ -1,6 +1,6 @@
 body{
 	color: #fff;
-	font: 100%/1.5 Helvetica, Arial, sans-serif, "Stint Ultra Expanded", cursive;
+	font: 100%/1.5 Helvetica, Arial, sans-serif, 'Stint Ultra Expanded', cursive;
 	width: 80%; /*850px*/
 	background-image: url(../images/wood2.jpg);
 	margin: 0 auto;
