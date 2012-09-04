@@ -18,7 +18,7 @@ h1{
 }
 
 
-#menu_container{
+.main nav{
 	color: #fff;
 	width: 23.529411764706%; /*250px*/
 	background-image: url(../images/wood.jpg);
@@ -27,7 +27,7 @@ h1{
 	
 }
 
-#menu_container li {
+.main nav li {
 	list-style-type: none;
 	font-size: 1.5em; /*24px*/
 }
