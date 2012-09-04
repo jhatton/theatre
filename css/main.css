@@ -18,18 +18,14 @@ h1{
 }
 
 
-#main nav{
-	color: #fff;
-	width: 23.529411764706%; /*250px*/
+.main nav{
 	float:left;
 	margin-bottom: 25px;
 	
 }
-#main nav ul{
-	list-style-type: none;
-}
 
-#main nav li {
+.main nav li {
+	list-style-type: none;
 	font-size: 1.5em; /*24px*/
 }
 
