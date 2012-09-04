@@ -21,14 +21,16 @@ h1{
 nav{
 	margin-bottom: 25px;
 	font-size: 2em;
-	float: right;
+	
 }
 
 nav ul{
-	
 	list-style-type: none;
 }
 
+nav li{
+	float: float;
+}
 nav a{
 	
 	text-decoration: none;	
