@@ -20,7 +20,7 @@ h1{
 
 nav{
 	margin-bottom: 25px;
-	font-size: 2em;
+	font-size: 1.5em;
 	
 }
 
@@ -30,6 +30,7 @@ nav ul{
 
 nav li{
 	float: right;
+	margin: 10px auto;
 }
 nav a{
 	
