@@ -21,7 +21,7 @@ h1{
 nav{
 	margin-bottom: 25px;
 	font-size: 2em;
-	display: block;
+	display: inline;
 }
 
 nav ul{
