@@ -60,5 +60,9 @@ aside {
 	clear:both;
 	border: 2px solid #000;
 	background-image: url(../images/bg.jpg);	
-	color:#000;
+}
+	
+blockquote {
+	color: 000;
+}	
 }
