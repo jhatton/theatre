@@ -20,7 +20,7 @@ h1{
 
 nav{
 	margin-bottom: 25px;
-	display: block;
+	display: inline;
 }
 
 nav li {
