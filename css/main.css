@@ -20,6 +20,7 @@ h1{
 
 nav{
 	margin-bottom: 25px;
+	display: block;
 }
 
 nav li {
