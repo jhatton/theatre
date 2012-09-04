@@ -15,6 +15,7 @@ h1{
 	background-color: #000;
 	font-size: 2.25em; /*36px*/
 	text-align: center;
+	margin-bottom: 25px;
 }
 
 
@@ -56,7 +57,7 @@ img {
 }
 aside {
 	clear:both;
-	border: 2px solid #FFF;
+	border: 2px solid #000;
 	background-image: url(../images/bg.jpg);	
 	color:#000;
 }
