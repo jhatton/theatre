@@ -20,11 +20,11 @@ h1{
 
 nav{
 	margin-bottom: 25px;
-	 
+	 font-size: 2em;
 }
 
 nav ul{
-	font-size: 2em;
+	
 	list-style-type: none;
 }
 
