@@ -24,11 +24,12 @@ nav{
 }
 
 nav ul{
+	font-size: 1.125em;
 	list-style-type: none;
 }
 
 nav a{
-	font-size: 1.125em;
+	
 	text-decoration: none;	
 }
 #imageholder {
