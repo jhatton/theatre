@@ -97,10 +97,10 @@ h3, h4, h5 {
 #footer_nav{
 	width: 100%;
 	display: block;
-	margin: 0 auto;
 	font-size: .75em; /*12px*/
 	text-align: center;
 	margin-bottom: 30px;
+	margin: 0 auto;
 }
 
 #footer_nav ul{
@@ -117,5 +117,5 @@ h3, h4, h5 {
 	text-decoration: none;	
 	text-align:center;
 	margin-bottom: 30px;
-	
+	 
 }
