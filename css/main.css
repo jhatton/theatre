@@ -92,12 +92,18 @@ h3, h4, h5 {
 	color: #000;
 	font-size: 24px;
 }
-
+footer {
+width: 100%;
+	display: block;
+	margin: 0 auto;
+	background-color: #000;
+	text-align: center;
+	margin-bottom: 30px;
+}
 #footer_nav{
 	width: 100%;
 	display: block;
 	margin: 0 auto;
-	background-color: #000;
 	font-size: .75em; /*12px*/
 	text-align: center;
 	margin-bottom: 30px;
@@ -111,8 +117,11 @@ h3, h4, h5 {
 	float:left
 }
 
-#footer_nav a{ 
+#footer_nav a{
+	display: block;
+	width: 100px; 
 	text-decoration: none;	
 	text-align:center;
 	margin-bottom: 30px;
+	
 }
