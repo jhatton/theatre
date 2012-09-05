@@ -2,7 +2,7 @@ body{
 	color: #fff;
 	font: 100%/1.5 Helvetica, Arial, sans-serif;
 	width: 80%; /*850px*/
-	background-color: #FFFF99;
+	background-color: #eeeedd;
 	margin: 0 auto;
 }
 
@@ -11,7 +11,7 @@ h1{
 	width: 100%;
 	display: block;
 	margin: 0 auto;
-	background-color: #000;
+	background-color: #333300;
 	font-family: 'Stint Ultra Condensed', cursive;
 	font-size: 2.25em; /*36px*/
 	text-align: center;
@@ -73,25 +73,25 @@ aside {
 	clear: both;
 	border: 1px solid #000;
 	text-align: center;
-	background-image: url(../images/wood7.jpg);	
+	background-color: #333300;	
 	
 }
 	
 blockquote {
 	font-family: 'Stint Ultra Condensed', cursive;
-	color: #fff;
+	color: #ff3300;
 	-moz-column-count: 3;
 }	
 
 h2 {
 	font-weight: bold;
-	color: #000;
+	color: #aa2200;
 	font-size: 36px;
 }
 
 h3, h4, h5 {
 	font-weight: bold;
-	color: #000;
+	color: #eeeedd;
 	font-size: 24px;
 }
 
