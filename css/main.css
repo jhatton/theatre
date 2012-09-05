@@ -19,8 +19,9 @@ h1{
 
 
 nav{
-	font-size: 1em;
+	font-size: 1.125em;
 	display: block;
+	margin: 0 auto;
 }
 
 nav ul{
@@ -43,7 +44,7 @@ nav a{
 
 #imageholder {
 	width: 41.176470588235%;
-	border: 2px solid #000;
+	border: 1px solid #000;
 	float: right; 
 	margin: 30px;
 }
