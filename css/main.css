@@ -194,64 +194,82 @@ h3, h4, h5 {
 	color: #887711;
 }
 
-@media screen and (min-width: 480px) and (max-width: 767px){
+/*-----------------Media Queries--------------------*/
+
+@media screen and (min-width: 768px) and (max-width: 960px) {
 		body{
 			margin: 0 auto;
+
 }
-		nav{
-			width: 35.294117647059%;  /*300px*/
-			display: inline;
-} 
-		aside{
-			display: none;
+
+		 
+			
+ 		nav{
+			width: 94.117647058824%;  /*800px*/
+		
 }
-		#maincontent{
-			-moz-column-count: 1;
-}
-		#wrapper{
-			width: 40%;
-}
+
+
+
+
 		body, nav{
 			font-size: 0.8125em; /*13px*/
 }
 
-		#form{
-			clear: left;
-}	
-
-
 }
 
-@media screen and  (max-width: 479px){ 
+@media screen and (min-width: 480px) and (max-width: 767px){
 		body{
 			margin: 0 auto;
 
 }
-	 	aside{
-			display: none;
-}
-		#maincontent{
-			-moz-column-count: 1;
-}
-		#wrapper{
-			display: none;
-}
-		body, .main nav{
-			font-size: 0.9375em; /*15px*/
-}
-		#form{
-			clear: left;
-}	
-		.gallery ul li {
-	 		float: none;
-}
-		nav li{
-			width: 33.333333333333%; /*100px*/  
-			float: left;
+
+		 
+			
 }
 		nav{
-			width: 35.294117647059%;  /*300px*/
-			display: inline;
+			width: 94.117647058824%;  /*300px*/
+		
 }
 
+nav{
+			width: 94.117647058824%;  /*800px*/
+		
 }
+
+		aside, #men{
+			display: none;
+}
+
+		body, nav{
+			font-size: 0.8125em; /*13px*/
+}
+
+ 
+@media screen and (min-width: 479px) {
+		body{
+			margin: 0 auto;
+
+}
+
+		 
+			
+}
+		nav{
+			width: 94.117647058824%;  /*300px*/
+		
+}
+
+nav{
+			width: 94.117647058824%;  /*800px*/
+		
+}
+
+		aside, #men{
+			display: none;
+}
+
+		body, nav{
+			font-size: 0.8125em; /*13px*/
+}
+ 
