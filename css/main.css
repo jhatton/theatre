@@ -253,7 +253,7 @@ h3, h4, h5 {
 
 		nav li{
 			width: 33.333333333333%; /*100px*/  
-			
+			display: inline;
 }
 		nav{
 			width: 35.294117647059%;  /*300px*/
