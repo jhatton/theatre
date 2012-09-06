@@ -232,11 +232,6 @@ h3, h4, h5 {
 		
 }
 
-nav{
-			width: 94.117647058824%;  /*800px*/
-		
-}
-
 		aside, #men{
 			display: none;
 }
@@ -246,8 +241,8 @@ nav{
 }
 
 }
-@media screen and (min-width: 479px) {
-		body{
+@media screen and  (max-width: 479px){ 
+	body{
 			margin: 0 auto;
 
 }
@@ -257,11 +252,6 @@ nav{
 }
 		nav{
 			width: 94.117647058824%;  /*300px*/
-		
-}
-
-nav{
-			width: 94.117647058824%;  /*800px*/
 		
 }
 
