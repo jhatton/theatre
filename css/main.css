@@ -101,6 +101,17 @@ nav a{
 	 
 }
 
+nav a:visited{
+	border-color: #0000ff;
+}
+
+nav a:hover{
+	border-color: #0f0f0f;
+}
+
+nav a:active{
+	border-color: #f0f0f0;
+}
 #imageholder {
 	width: 41.176470588235%;
 	border: 1px solid #000;
@@ -178,7 +189,7 @@ h3, h4, h5 {
 }
 
 #cright {
-	
 	font-size: .75em; 
 	color: #887711;
 }
+
