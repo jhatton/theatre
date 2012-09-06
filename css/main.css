@@ -99,7 +99,7 @@ nav a{
 	text-decoration: none;	
 	text-align:center;
 	margin-bottom: 30px;
-	 
+
 }
 
 nav a:visited{
@@ -142,9 +142,9 @@ aside {
 	border: 1px solid #000;
 	text-align: center;
 	background-color: #333300;	
-	
+
 }
-	
+
 blockquote {
 	font-family: 'Stint Ultra Condensed', cursive;
 	color: #ff3300;
@@ -186,7 +186,7 @@ h3, h4, h5 {
 	text-decoration: none;	
 	text-align: center;
 	margin-bottom: 30px;
-	 
+
 }
 
 #cright {
@@ -204,11 +204,11 @@ h3, h4, h5 {
 
 		nav li{
 			width: 33.333333333333%; /*100px*/  
-			
+
 }
 		nav{
 			width: 35.294117647059%;  /*300px*/
-		
+
 }
 
 		aside, #men{
@@ -229,11 +229,11 @@ h3, h4, h5 {
 
 		nav li{
 			width: 33.333333333333%; /*100px*/  
-			
+
 }
 		nav{
 			width: 35.294117647059%;  /*300px*/
-		
+
 }
 
 		aside, #men{
@@ -253,11 +253,11 @@ h3, h4, h5 {
 
 		nav li{
 			width: 33.333333333333%; /*100px*/  
-			
+
 }
 		nav{
 			width: 35.294117647059%;  /*300px*/
-		
+
 }
 
 		aside, #men{
