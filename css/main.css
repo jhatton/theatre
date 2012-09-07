@@ -194,6 +194,14 @@ h3, h4, h5 {
 	color: #887711;
 }
 
+.main_paragraph {
+	clear: both;
+	padding: 30px;
+	color: #552200;
+	font-size: 26px;
+}
+
+
 /*-----------------Media Queries--------------------*/
 
 @media screen and (min-width: 768px) and (max-width: 960px) {
