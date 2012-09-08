@@ -200,13 +200,16 @@ h3, h4, h5 {
 	color: #552200;
 	font-size: 26px;
 }
-#form_id{
+#form{
 	padding: 15px;
 	color:#552200;
 	font-size: 20px;
+	margin: 40px;
 }
 
-
+#form label {
+	margin: 10px;
+}
 /*-----------------Media Queries--------------------*/
 
 @media screen and (min-width: 768px) and (max-width: 960px) {
