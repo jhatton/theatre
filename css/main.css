@@ -211,9 +211,9 @@ h3, h4, h5 {
 	margin: 10px;
 }
 
-#field-agree-tos{
+#field-agree-tos label {
 	color: #000;
-	margin-right: 40px;
+	padding-right: 40px;
 }
 /*-----------------Media Queries--------------------*/
 
