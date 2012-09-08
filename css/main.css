@@ -77,12 +77,12 @@ h1{
 .main nav{
 	margin: 0 auto;
 	text-align: center;
-	display:inline-block;
 }
 
 
 nav{
 	width: 94.117647058824%; /*800px*/
+	background-color: #ffff43;
 	font-size: 1.125em;
 	display: block;
 	margin: 0 auto;
@@ -98,6 +98,8 @@ nav li{
 
 nav a{
 	display: block;
+	border: 1px solid #000;
+	background: #fff;
 	width: 100px; 
 	text-decoration: none;	
 	text-align:center;
