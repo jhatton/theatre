@@ -53,8 +53,6 @@ legend {
 	color:#000;
 }
 
-
-
 body{
 	color: #fff;
 	font: 100%/1.5 Helvetica, Arial, sans-serif;
@@ -82,7 +80,6 @@ h1{
 
 nav{
 	width: 94.117647058824%; /*800px*/
-	background-color: #ffff43;
 	font-size: 1.125em;
 	display: block;
 	margin: 0 auto;
@@ -98,8 +95,6 @@ nav li{
 
 nav a{
 	display: block;
-	border: 1px solid #000;
-	background: #fff;
 	width: 100px; 
 	text-decoration: none;	
 	text-align:center;
