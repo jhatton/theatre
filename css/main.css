@@ -200,15 +200,20 @@ h3, h4, h5 {
 	color: #552200;
 	font-size: 26px;
 }
-#form_wrapper{
-	padding: 15px;
+#form_wrapper p{
+	padding: 5px;
 	color:#000;
-	font-size: 20px;
-	margin: 40px;
+	font-size: 1.625em;
+	margin: 10px;
 }
 
-#form label {
+#form_wrapper label {
 	margin: 10px;
+}
+
+#field-agree-tos{
+	color: #000;
+	margin-right: 40px;
 }
 /*-----------------Media Queries--------------------*/
 
