@@ -164,6 +164,7 @@ h3, h4, h5 {
 }
 
 #footer_nav{
+	clear: both;        
 	width: 100%;
 	display: block;
 	font-size: .75em; /*12px*/
