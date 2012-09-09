@@ -219,6 +219,11 @@ h3, h4, h5 {
 	color: #000;
 	padding-right: 40px;
 }
+
+#information p{
+	color: #353535;
+	padding: 3px;
+}
 /*-----------------Media Queries--------------------*/
 
 @media screen and (min-width: 768px) and (max-width: 960px) {
