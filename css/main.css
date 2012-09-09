@@ -74,7 +74,7 @@ h1{
 }
 
 .main nav{
-	padding-top: 30px;
+	 
 	text-align: center;
 }
 
@@ -82,7 +82,7 @@ h1{
 nav{
 	width: 94.117647058824%; /*800px*/
 	font-size: 1.125em;
-	display: block;
+	
 	margin: 0 auto;
 }
 
