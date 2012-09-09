@@ -231,7 +231,10 @@ h3, h4, h5 {
 }
 
 #financial li{
-	list-style-type: circle;
+	text-align: center;
+}
+
+#right {
 	text-align: center;
 }
 /*-----------------Media Queries--------------------*/
