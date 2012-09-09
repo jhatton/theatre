@@ -154,13 +154,13 @@ blockquote {
 h2 {
 
 	color: #aa2200;
-	font-size: 36px;
+	font-size: 2.25em;
 }
 
 h3, h4, h5 {
 	font-family: Helvetica;
 	color: #eeeedd;
-	font-size: 24px;
+	font-size: 1.5em;
 }
 
 #footer_nav{
@@ -193,14 +193,14 @@ h3, h4, h5 {
 	clear: both;
 	font-size: .75em; 
 	color: #887711;
-	margin-left: 490px;
+	margin-left: 57.647058823529%; /*490px*/
 }
 
 .main_paragraph {
 	clear: both;
 	padding: 30px;
 	color: #552200;
-	font-size: 26px;
+	font-size: 1.625em; /*26px*/
 }
 #form_wrapper p{
 	padding: 5px;
