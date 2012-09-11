@@ -163,7 +163,7 @@ h3, h4, h5 {
 	font-size: 1.5em;
 }
 
-#footer_nav{
+footer{
 	clear: both;        
 	width: 100%;
 	display: block;
@@ -173,24 +173,23 @@ h3, h4, h5 {
 	margin: 0 auto;
 }
 
-#footer_nav ul{
+footer nav {
 	list-style-type: none;
 }
 
-#footer_nav li{
+footer nav li{
 	float:left
 }
 
-#footer_nav a{
+footer nav a{
 	display: block;
 	width: 100px; 
 	text-decoration: none;	
 	text-align: center;
 	margin-bottom: 30px;
-
 }
 
-#cright {
+#copyright {
 	clear: both;
 	font-size: .75em; 
 	color: #887711;
@@ -234,7 +233,7 @@ h3, h4, h5 {
 	text-align: center;
 }
 
-#cright {
+#copyright {
 	text-align: center;
 }
 /*-----------------Media Queries--------------------*/
