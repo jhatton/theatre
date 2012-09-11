@@ -341,10 +341,10 @@ footer nav a{
 }
 
 #imageholder {
-	width: 41.176470588235%;
-	border: 1px solid #000;
-	float: right; 
-	margin: 30px;
+		width: 41.176470588235%;
+		border: 1px solid #000;
+		float: right; 
+		margin: 30px;
 }
 	aside, #men{
 			display: none;
