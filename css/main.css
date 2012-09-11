@@ -96,7 +96,6 @@ nav li{
 
 nav a{
 	display: block;
-	width: 100px; 
 	text-decoration: none;	
 	text-align:center;
 	margin-bottom: 30px;
@@ -165,9 +164,9 @@ h3, h4, h5 {
 	font-size: 1.5em;
 }
 
-#footer{
+footer #footer {	
+	width: 400px;
 	clear: both;        
-	width: 100%;
 	display: block;
 	font-size: .75em; /*12px*/
 	text-align: center;
@@ -175,17 +174,16 @@ h3, h4, h5 {
 	margin: 0 auto;
 }
 
-#footer nav {
+#footer ul{
 	list-style-type: none;
 }
-
-#footer nav li{
+#footer li{
+	width: 25%;
 	float:left;
 }
 
 #footer nav a{
 	display: block;
-	width: 100px; 
 	text-decoration: none;	
 	text-align: center;
 	margin-bottom: 30px;
