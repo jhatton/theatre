@@ -75,13 +75,13 @@ h1{
 
 .main nav{
 	width: 94.117647058824%; /*800px*/
-	text-align: center;
+	margin: 0 auto;
 }
 
 
 nav{
 	font-size: 1.125em;
-	margin: 0 auto;
+
 }
 
 nav ul{
