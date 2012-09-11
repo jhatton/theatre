@@ -337,10 +337,10 @@ footer nav a{
 		margin-bottom: 30px;
 }
 
-#imageholder {
+	#imageholder {
 		width: 41.176470588235%;
 		border: 1px solid #000;
-		float: right; 
+		float: left; 
 		margin: 30px;
 }
 	aside, #men{
