@@ -194,6 +194,8 @@ footer nav a{
 	font-size: .75em; 
 	color: #887711;
 	margin-left: 57.647058823529%; /*490px*/
+	text-align: center;
+
 }
 
 .main_paragraph {
@@ -233,9 +235,7 @@ footer nav a{
 	text-align: center;
 }
 
-#copyright {
-	text-align: center;
-}
+
 /*-----------------Media Queries--------------------*/
 
 @media screen and (min-width: 768px) and (max-width: 960px) {
