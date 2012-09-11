@@ -289,11 +289,11 @@ footer nav a{
 			width: 94.117647058824%; /*800px*/
 
 }
-	#image_holder{
+		#image_holder{
 		clear:both;
 	
 	}
-	nav  a{
+		nav  a{
 		 
 		text-decoration: none;	
 		text-align:center;
@@ -326,11 +326,8 @@ footer nav a{
 		margin-bottom: 30px;
 }
 
-	.main nav{
+	 nav li{
 		clear: both;
-}
-
-	nav {
 }
 
 
@@ -350,7 +347,7 @@ footer nav a{
 			display: none;
 }
 
-	body, nav, #foot_nav{
+	body, nav, footer nav{
 			font-size: 0.8125em; /*13px*/
 }
 }
