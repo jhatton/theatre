@@ -241,11 +241,11 @@ footer nav a{
 @media screen and (min-width: 768px) and (max-width: 960px) {
 	body{
 		margin: 0 auto;
+
 }
 	h1{
 		width: 100%;
 		height: 50px;
-		display: block;
 		margin: 0 auto;
 		background-color: #333300;
 		font-family: 'Stint Ultra Condensed', cursive;
@@ -253,62 +253,73 @@ footer nav a{
 		text-align: center;
 		margin-bottom: 30px;
 }
-		nav li{
-			width: 33.333333333333%; /*100px*/  
 
+	 nav li{
+		float: none;
 }
-		nav{
-			width: 94.117647058824%; /*800px*/
 
-}
-		nav  a{
-		border: 0; 
+
+	nav  a{
 		text-decoration: none;	
 		text-align:center;
 		margin-bottom: 30px;
-		clear: both;
 }
 
-		body, nav{
+	#imageholder {
+		width: 41.176470588235%;
+		border: 1px solid #000;
+		float: left; 
+		margin: 10px;
+}
+	aside, #men{
+			display: none;
+}
+
+	body, nav, footer nav{
 			font-size: 0.8125em; /*13px*/
 }
-
 }
 
 @media screen and (min-width: 480px) and (max-width: 767px){
 		body{
-			margin: 0 auto;
+		margin: 0 auto;
 
 }
-
-		nav li{
-			width: 33.333333333333%; /*100px*/  
-
+	h1{
+		width: 100%;
+		height: 50px;
+		margin: 0 auto;
+		background-color: #333300;
+		font-family: 'Stint Ultra Condensed', cursive;
+		font-size: 2.25em; /*36px*/
+		text-align: center;
+		margin-bottom: 30px;
 }
-		nav{
-			width: 94.117647058824%; /*800px*/
 
+	 nav li{
+		float: none;
 }
-		#image_holder{
-		clear:both;
-	
-	}
-		nav  a{
-		 
+
+
+	nav  a{
 		text-decoration: none;	
 		text-align:center;
 		margin-bottom: 30px;
-		clear:both;
 }
 
-		aside, #men{
+	#imageholder {
+		width: 41.176470588235%;
+		border: 1px solid #000;
+		float: left; 
+		margin: 10px;
+}
+	aside, #men{
 			display: none;
 }
 
-		body, nav{
+	body, nav, footer nav{
 			font-size: 0.8125em; /*13px*/
 }
-
 }
 @media screen and  (min-width: 240px) and (max-width: 479px){ 
 	body{
