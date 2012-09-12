@@ -57,8 +57,15 @@ body{
 	color: #fff;
 	font: 100%/1.5 Helvetica, Arial, sans-serif;
 	width: 80%; /*850px*/
-	background-color: #eeeedd;
-	margin: 0 auto;
+	background: #eaefb5; /* Old browsers */
+	background: -moz-linear-gradient(top,  #eaefb5 0%, #e1e9a0 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eaefb5), color-stop(100%,#e1e9a0)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #eaefb5 0%,#e1e9a0 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #eaefb5 0%,#e1e9a0 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #eaefb5 0%,#e1e9a0 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #eaefb5 0%,#e1e9a0 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaefb5', endColorstr='#e1e9a0',GradientType=0 ); /* IE6-9 */
+margin: 0 auto;
 }
 
 h1{	
@@ -164,7 +171,7 @@ aside h2 {
 
 blockquote h3, h4, h5 {
 	font-family: Helvetica;
-	color: #322;
+	color: #000;
 	font-size: 1.5em;
 }
 
@@ -233,7 +240,18 @@ footer  {
 	padding: 3px;
 }
 
+#donate_page h7, h8, p{
+	padding: 5px;
+}
+
+
 #financial li{
+	color: #353;
+	padding: 3px;
+}
+
+
+#financial {
 	color: #353;
 	text-align: center;
 }
