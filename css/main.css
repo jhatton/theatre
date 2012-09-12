@@ -128,14 +128,18 @@ img {
 #information { 
 	clear: both;
 	width: 58.352941176471%; /*496px*/
-	border: 4px solid #000;
+	margin: 0 auto;
 }
-
+ #information h2, h3, h4, h5, h6, h7, h8{
+ 	color: #000;
+ 	font-size: 1.5em;
+ 		
+}
 #men{
-		float: left;
-		width: 47.058823529412%; /*400px*/
-		border: 1px solid #000;
-		margin-top: 30px;
+	float: left;
+	width: 47.058823529412%; /*400px*/
+	border: 1px solid #000;
+	margin-top: 30px;
 }
 
 aside {
@@ -153,13 +157,12 @@ blockquote {
 	-moz-column-count: 3;
 }	
 
-h2 {
-
+aside h2 {
 	color: #aa2200;
 	font-size: 2.25em;
 }
 
-h3, h4, h5 {
+blockquote h3, h4, h5 {
 	font-family: Helvetica;
 	color: #eeeedd;
 	font-size: 1.5em;
