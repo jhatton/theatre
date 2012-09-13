@@ -65,7 +65,7 @@ body{
 	background: -ms-linear-gradient(top,  #eaefb5 0%,#e1e9a0 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #eaefb5 0%,#e1e9a0 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaefb5', endColorstr='#e1e9a0',GradientType=0 ); /* IE6-9 */
-margin: 0 auto;
+	margin: 0 auto;
 }
 
 h1{	
@@ -240,7 +240,15 @@ footer  {
 	padding: 3px;
 }
 
-#donate_page h7, h8, p{
+#donate_page h2{
+	font-size:1.25em;
+	font-weight:700;
+	text-align:center;
+}
+
+
+#donate_page p{
+	font-size:14px;
 	padding: 5px;
 }
 
@@ -255,7 +263,11 @@ footer  {
 	color: #353;
 	text-align: center;
 }
-
+#financial h3{
+	font-size:1.25em;
+	font-weight:700;
+	text-align:center;
+}
 
 /*-----------------Media Queries--------------------*/
 
