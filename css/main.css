@@ -343,11 +343,11 @@ font-size: 1.5em;
 		body{
 			margin: 0 auto;
 }
-	#logo{
-	width: 7.529411764706%;
-	border: 2px solid #0e2200;
-	float: left;
-	margin-left: 50px;
+		#logo{
+		width: 7.529411764706%;
+		border: 2px solid #0e2200;
+		float: left;
+		margin-left: 50px;
 }
 		
 		#image_holder{
@@ -414,6 +414,29 @@ font-size: 1.5em;
 }
 	#men{
 			display: none;
+}footer  {	
+	width: 400px;
+	clear: both;        
+	display: block;
+	font-size: .75em; /*12px*/
+	text-align: center;
+	margin-bottom: 30px;
+	margin: 0 auto;
+}
+
+#footer ul{
+	list-style-type: none;
+}
+#footer li{
+	width: 15%;
+	float:left;
+}
+
+#footer nav a{
+	display: block;
+	text-decoration: none;	
+	text-align: center;
+	margin-bottom: 30px;
 }
 
 	body, nav, footer nav{
