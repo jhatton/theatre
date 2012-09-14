@@ -280,6 +280,11 @@ footer  {
 	text-align:center;
 }
 
+#auditions{
+	font-size: 1em;
+	color: #fff;
+}
+
 /*-----------------Media Queries--------------------*/
 
 @media screen and (min-width: 768px) and (max-width: 960px) {
