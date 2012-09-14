@@ -411,7 +411,7 @@ font-size: 1.5em;
 		float: left; 
 		margin: 10px;
 }
-	#men{
+	aside, #men{
 			display: none;
 }footer  {	
 	width: 400px;
