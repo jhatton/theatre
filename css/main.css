@@ -55,7 +55,7 @@ legend {
 
 body{
 	color: #fff;
-	font: 100%/1.5% font-family: Jacques Francois Shadow, cursive;
+	font: 100%/1.5% font-family: Arial;
 	width: 80%; /*850px*/
 	background: #eaefb5; /* Old browsers */
 	background: -moz-linear-gradient(top,  #eaefb5 0%, #e1e9a0 100%); /* FF3.6+ */
@@ -261,7 +261,6 @@ footer  {
 	padding: 3px;
 }
 
-
 #financial {
 	color: #353;
 	text-align: center;
@@ -286,6 +285,7 @@ footer  {
 	font-size: 1em;
 	color: #000;
 }
+
 h2 {
 font-size: 1.5em;
 	color: #000;
@@ -298,14 +298,35 @@ section {
 }
 
 #mailing {
-	padding: 5px
-	
+	padding: 5px;
+	margin: 10px;
+}
 
+#mailing p{
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+
+#mailing type {
+	margin-left: 10px
+}
+
+#mailing label {
+	color: #000;
+	text-align: left;
 }
 
 section ul li{
 	color:#000;
 	font-size: 1em;
+}
+
+#newsletter_container{
+	width: 420px;
+	height: 275px;
+	margin-right: 80px;
+	float: right;
+	
 }
 /*-----------------Media Queries--------------------*/
 
@@ -402,7 +423,6 @@ section ul li{
 		height: 50px;
 		margin: 0 auto;
 		background-color: #333300;
-		font-family: 'Stint Ultra Condensed', cursive;
 		font-size: 2.25em; /*36px*/
 		text-align: center;
 		margin-bottom: 15px;
