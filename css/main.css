@@ -123,6 +123,14 @@ nav a:active{
 	background-color: #E0D6CC;
 }
 
+#audience {
+	width:550px;
+	height:507px;
+	float: right;
+	margin-top:30px;
+
+}
+
 #imageholder {
 	width: 41.176470588235%;
 	border: 1px solid #000;
