@@ -155,29 +155,11 @@ img {
 
 aside {
 	margin-top: 30px;
-	clear: both;
-	border: 1px solid #000;
-	text-align: center;
-	background-color: #333300;	
+	width: 958px;
+	height: 200px;
 
 }
 
-blockquote {
-	color: #ff3300;
-	-moz-column-count: 3;
-	-webkit-column-count: 3;
-}	
-
-aside h2 {
-	color: #aa2200;
-	font-size: 2.25em;
-}
-
-blockquote h3, h4, h5 {
-	font-family: Helvetica;
-	color: #000;
-	font-size: 1.5em;
-}
 
 footer  {	
 	width: 400px;
