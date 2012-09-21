@@ -143,8 +143,8 @@ img {
 }
 
 #information { 
-	float: left;
 	width: 58.352941176471%; /*496px*/
+	text-align: center;
 	margin: 0 auto;
 }
  #information h2, h3, h4, h5, h6, h7, h8{
@@ -306,6 +306,12 @@ section ul li{
 	height: 64px;
 	margin-right: 80px;
 	float: right;
+}
+
+#seating {
+	width: 58.823529411765%; /*500px*/
+	margin-left: 30px;
+ 
 }
 
 /*-----------------Media Queries--------------------*/
