@@ -220,7 +220,7 @@ form_wrapper {
  
  #img_audition{
  	width: 52.47058823529%;
- 	
+ 	float: right;
  }
 
 #field-agree-tos label {
