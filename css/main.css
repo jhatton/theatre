@@ -55,7 +55,7 @@ legend {
 
 body{
 	color: #fff;
-	font: 100%/1.5% font-family: Arial;
+	font: 100% Arial, Helvetica, sans-serif;
 	width: 80%; /*850px*/
 	background: #E9F0E0; /* Old browsers */
 	background: -moz-linear-gradient(top,  #ECEEE10%, # 100%); /* FF3.6+ */
