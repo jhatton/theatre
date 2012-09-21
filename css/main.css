@@ -143,7 +143,7 @@ img {
 }
 
 #information { 
-	clear: both;
+	float: left;
 	width: 58.352941176471%; /*496px*/
 	margin: 0 auto;
 }
@@ -308,7 +308,6 @@ section ul li{
 	float: right;
 }
 
-#seating {float: right;}
 /*-----------------Media Queries--------------------*/
 
 @media screen and (min-width: 768px) and (max-width: 960px) {
