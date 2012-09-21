@@ -425,6 +425,9 @@ section ul li{
 	#audience {
 		display: none;		
 }
+	#information {
+	display: none;
+}
 footer {	
 	width: 400px;
 	clear: both;        
