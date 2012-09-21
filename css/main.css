@@ -154,6 +154,13 @@ img {
 	clear: both;	
 }
 
+#contact {
+	width: 35%; /*128px*/
+	float: right;
+	margin-right: 100px;
+
+}
+
 footer  {	
 	width: 400px;
 	clear: both;        
@@ -193,16 +200,23 @@ footer  {
 	color: #552200;
 	font-size: 1.625em; /*26px*/
 }
+form_wrapper {
+	float: right;
+}
 #form_wrapper p{
 	padding: 5px;
 	color:#000;
 	font-size: 1.125em;
-	margin: 10px;
+	margin:5px;
+	margin-left: 20px;
 }
 
 #form_wrapper label {
 	margin: 10px;
 }
+ #form_wrapper h3{
+ 	margin-left: 40px;
+ }
 
 #field-agree-tos label {
 	color: #000;
