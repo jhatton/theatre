@@ -150,12 +150,10 @@ img {
  #information h2, h3, h4, h5, h6, h7, h8{
  	color: #322;
  	font-size: 1.5em;
- 		
 }
 
 #img {
-	clear: both;
-	
+	clear: both;	
 }
 
 footer  {	
@@ -391,7 +389,7 @@ section ul li{
 }
 
 }
-@media screen and  (min-width: 240px) and (max-width: 479px){ 
+@media screen (max-width: 479px){ 
 	body{
 		margin: 0 auto;
 
@@ -426,14 +424,10 @@ section ul li{
 		font-size: 2em;		
 }
 
-	#imageholder {
-		width: 41.176470588235%;
-		border: 1px solid #000;
-		float: left; 
-		margin: 10px;
+	#imageholder #audience{
+		display: none;
 }
-	aside, #men{
-			display: none;
+	
 }footer  {	
 	width: 400px;
 	clear: both;        
