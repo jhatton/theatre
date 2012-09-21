@@ -231,7 +231,7 @@ form_wrapper {
 #img_donate{
 	width: 35.294117647059%;
 	border: 1px solid #fff;
-	float: left;
+	float: right;
 	margin-right: 10px;
 	margin-left: 30px;
 }
