@@ -389,18 +389,13 @@ section ul li{
 }
 
 }
-@media screen (max-width: 479px){ 
+@media (max-width: 479px){ 
 	body{
 		margin: 0 auto;
 
 }
 
-#logo{
-	width: 7.529411764706%;
-	border: 2px solid #0e2200;
-	float: left;
-	margin-left: 50px;
-}
+
 
 	h1{
 		width: 100%;
@@ -413,8 +408,9 @@ section ul li{
 }
 
 	 nav li{
+	 	clear: both;
 	 	width: 100%;
-		float: none;
+		float: none; 
 }
 
 
@@ -424,11 +420,13 @@ section ul li{
 		font-size: 2em;		
 }
 
-	#imageholder #audience{
+	#imageholder {
 		display: none;
 }
-	
-}footer  {	
+	#audience {
+		display: none;		
+}
+footer {	
 	width: 400px;
 	clear: both;        
 	display: block;
