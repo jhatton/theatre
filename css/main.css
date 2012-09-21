@@ -231,6 +231,8 @@ form_wrapper {
 #img_donate{
 	width: 42.470588235294%;
 	float: left;
+	margin-right: 10px;
+	margin-left: 30px;
 }
 #information p{
 	color: #353535;
