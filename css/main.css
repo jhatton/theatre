@@ -388,7 +388,7 @@ section ul li{
 }
 
 }
-@media (max-width: 479px){ 
+@media screen(max-width: 479px){ 
 	body{
 		margin: 0 auto;
 
