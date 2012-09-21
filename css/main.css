@@ -1,11 +1,10 @@
-
 html{
 	color:#000;
 	background:#FFF;
 }
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
-	margin:0;
-	padding:0;
+	margin: 0;
+	padding: 0;
 }
 table {
 	border-collapse:collapse;
@@ -58,7 +57,7 @@ body{
 	font: 100% Arial, Helvetica, sans-serif;
 	width: 80%; /*850px*/
 	background: #E9F0E0; /* Old browsers */
-	background: -moz-linear-gradient(top,  #ECEEE10%, # 100%); /* FF3.6+ */
+	background: -moz-linear-gradient(top,  #ECEEE1 0%, 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ECEEE1), color-stop(100%,#E9F0E0)); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top,  #ECEEE1 0%,#E9F0E0 100%); /* Chrome10+,Safari5.1+ */
 	background: -o-linear-gradient(top,  #ECEEE1 0%,#E9F0E0 100%); /* Opera 11.10+ */
@@ -124,11 +123,11 @@ nav a:active{
 }
 
 #audience {
-	width:550px;
-	height:507px;
-	float: right;
-	margin-top:30px;
-
+	width: 550px;
+	height: 507px;
+	float: left;
+	margin: 30px;
+	clear: left;
 }
 
 #imageholder {
