@@ -228,7 +228,10 @@ form_wrapper {
 	color: #000;
 	padding-right: 40px;
 }
-
+#img_donate{
+	width: 42.470588235294%;
+	float: left;
+}
 #information p{
 	color: #353535;
 	padding: 3px;
