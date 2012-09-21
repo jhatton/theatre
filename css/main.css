@@ -123,11 +123,11 @@ nav a:active{
 }
 
 #audience {
-	width: 550px;
+	width: 64.705882352941%;  /*550px*/
 	height: 507px;
 	float: left;
-	margin: 30px;
-	clear: left;
+
+	
 }
 
 #imageholder {
