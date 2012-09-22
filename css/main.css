@@ -135,7 +135,7 @@ img {
 	width: 58.352941176471%; /*496px*/
 	margin-right: 30px;
 }
- #information h2, h3, h4, h5, h6, h7, h8{
+ #information h2, h3, h4, h5, h6{
  	color: #322;
  	font-size: 1.5em;
  	line-height: 1em;
@@ -274,7 +274,7 @@ form_wrapper {
 }
 
 #auditions  h3, h4{
-	font-size:1.25em;
+	font-size:1.5em;
 	font-weight:700;
 	text-align:center;
 }
