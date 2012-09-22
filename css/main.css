@@ -1,3 +1,4 @@
+/*-----reset-----*/
 html{
 	color:#000;
 	background:#FFF;
@@ -23,10 +24,7 @@ li {
 caption, th {
 	text-align:left;
 }
-h1, h2, h3, h4, h5, h6 {
-	font-size:100%;
-	font-weight:normal;
-}
+
 a:before, a:after {
 	content:'';
 }
@@ -52,6 +50,7 @@ legend {
 	color:#000;
 }
 
+/*-----head-----*/
 body{
 	color: #fff;
 	font-family: Arial, Helvetica, "Helvetica Neue",   sans-serif;
@@ -74,12 +73,12 @@ h1{
 	margin-left: 50px;
 }
 
+/*-----navigation-----*/
 nav .main {
 	width: 82.352941176471%; /*800px*/
 	margin: 0 auto;
 	text-align: center;
 }
-
 
 nav{
 	font-size: 1.125em;
@@ -113,7 +112,7 @@ nav a:hover{
 nav a:active{
 	background-color: #E0D6CC;
 }
-
+/*-----index image-----*/
 #audience {
 	width: 50.705882352941%;
  	float: left;
@@ -139,7 +138,9 @@ img {
  #information h2, h3, h4, h5, h6, h7, h8{
  	color: #322;
  	font-size: 1.5em;
+ 	line-height: 1em;
  	padding: 5px;
+ 	text-align:center;
 }
 
 #img {
