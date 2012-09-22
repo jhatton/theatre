@@ -134,12 +134,12 @@ img {
 
 #information { 
 	width: 58.352941176471%; /*496px*/
-	text-align: center;
-	margin: 0 auto;
+	margin-right: 30px;
 }
  #information h2, h3, h4, h5, h6, h7, h8{
  	color: #322;
  	font-size: 1.5em;
+ 	padding: 5px;
 }
 
 #img {
