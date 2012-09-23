@@ -53,7 +53,7 @@ legend {
 /*-----head-----*/
 body{
 	color: #fff;
-	font-family: Arial, Helvetica, "Helvetica Neue",   sans-serif;
+	font: 100%/1.5 Arial, Helvetica, "Helvetica Neue",   sans-serif;
 	width: 80%; /*850px*/
 	background: #E9F0E0; /* Old browsers */
 	margin: 0 auto;
