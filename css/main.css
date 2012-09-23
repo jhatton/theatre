@@ -77,6 +77,7 @@ h1{
 nav .main {
 	width: 82.352941176471%; /*800px*/
 	margin: 0 auto;
+	display:block;
 	text-align: center;
 }
 
