@@ -87,11 +87,9 @@ nav{
 
 nav ul{
 	list-style-type: none;
-	overflow: hidden;
 }
 
 nav li{
-	
 	width:14.28571428571429%;
 	float:left;
 }
