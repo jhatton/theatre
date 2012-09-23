@@ -90,8 +90,9 @@ nav ul{
 }
 
 nav li{
-	display:left;
+	
 	width:14.28571428571429%;
+	float:left;
 }
 
 nav a{
