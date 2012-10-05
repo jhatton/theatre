@@ -91,7 +91,6 @@ nav ul{
 }
 
 nav li{
-	
 	width:14.28571428571429%;
 	float:left;
 }
@@ -101,7 +100,6 @@ nav a{
 	text-decoration: none;	
 	text-align:center;
 	margin-bottom: 30px;
-
 }
 
 nav a:visited{
